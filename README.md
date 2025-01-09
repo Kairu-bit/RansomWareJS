@@ -1,12 +1,12 @@
 # RansomWare JS
 
-RansomWareJS is an Open-Source, Node.js-based project designed for **educational** and **testing purposes**.
+RansomWareJS is an **Open-Source**, Node.js-based project designed for **educational** and **testing purposes**.
 
 > [!IMPORTANT]
 > **This project is intended for developers familiar with Node.js, cryptography, and file system operations.**
 
 > [!WARNING]
-> **Misuse of this project for malicious purposes is strictly prohibited and may violate laws. **
+> **Misuse of this project for malicious purposes is strictly prohibited and may violate laws.**
 > **The creators bear no responsibility for any illegal activities conducted using this tool.**
 
 ## Prerequisites
